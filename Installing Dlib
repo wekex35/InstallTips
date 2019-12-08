@@ -1,0 +1,6 @@
+Installing dlib in windows 10
+
+1. Install Visual Studio C++ (https://visualstudio.microsoft.com/vs/features/cplusplus/)
+2. Install CMake  (https://cmake.org/download/)
+3. Install python cmake (pip install cmake)
+4. Install dlib (pip install dlib)
