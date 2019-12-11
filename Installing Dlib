@@ -4,3 +4,6 @@ Installing dlib in windows 10
 2. Install CMake  (https://cmake.org/download/)
 3. Install python cmake (pip install cmake)
 4. Install dlib (pip install dlib)
+
+Installing yarn
+https://yarnpkg.com/lang/en/docs/install/#windows-stable
