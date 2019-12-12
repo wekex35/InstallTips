@@ -7,6 +7,11 @@ Installing dlib in windows 10
 
 Installing yarn
 https://yarnpkg.com/lang/en/docs/install/#windows-stable
+"sc-setup": "yarn run sc-install && yarn gulp" 
+
+Installing Sailjs
+npm install -g sails
+sails new test-project
 
 //Create Sample
 opencv_createsamples -img watch5050.jpg -bg bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1950
