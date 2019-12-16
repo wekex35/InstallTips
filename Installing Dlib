@@ -22,6 +22,14 @@ cd APPNAME
 npm install //in project folder
 npm run dev 
 
+//Adnoisjs
+npm i -g @adonisjs/cli
+adonis new APPNAME --api-only
+cd APPNAME
+adonis serve --dev
+https://adonisjs.com/docs/4.0/migrations
+
+
 
 //Create Sample
 opencv_createsamples -img watch5050.jpg -bg bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1950
