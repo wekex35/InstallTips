@@ -13,5 +13,15 @@ Installing Sailjs
 npm install -g sails
 sails new test-project
 
+//Vue
+npm install -g vue-cli
+npm install -g webpack
+
+vue init webpack APPNAME
+cd APPNAME
+npm install //in project folder
+npm run dev 
+
+
 //Create Sample
 opencv_createsamples -img watch5050.jpg -bg bg.txt -info info/info.lst -pngoutput info -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.5 -num 1950
